@@ -26,10 +26,33 @@ This internship provides practical exposure to Business Intelligence using Power
 
 ---
 
-## 📘 Daily Logbook
+# 📊 Power BI Internship Daily Logbook
 
-> Each entry includes:  
-> ✅ Task Summary • 🖼️ Screenshots • 🧠 Learning Outcomes
+This repository documents the daily progress and key activities completed during my Power BI internship. Below is the day-wise breakdown of tasks performed:
+
+| Day | Task Summary |
+|-----|--------------|
+| 1 | Created an interactive dashboard using cement company data to visualize production and sales metrics. |
+| 2 | Performed data transformation and built a revenue-based dashboard from sample data for financial analysis. |
+| 3 | Applied additional data transformations, designed new visuals, and implemented drill-through functionality. |
+| 4 | Learned and applied data modeling and relationship building techniques to improve dashboard accuracy. |
+| 5 | Gained hands-on experience with DAX Studio for advanced DAX queries and performance optimization. |
+| 6 | Applied core DAX functions to enrich dashboard visuals with dynamic and calculated metrics. |
+| 7 | Developed an enhanced cement company dashboard using DAX Studio, incorporating advanced transformations and filters. |
+| 8 | Updated and improved the existing cement company dashboard by refining data transformations. |
+| 9 | Further optimized the cement dashboard using advanced DAX Studio features for better insights. |
+| 10 | Designed a new dashboard combining food revenue and geographic data, using map visuals and aggregations. |
+| 11 | Explored and integrated custom visuals; learned visualization best practices to improve report aesthetics. |
+| 12 | Created calculated fields to derive insights and performed a major update to the cement dashboard. |
+| 13 | Built a stock market data dashboard using line charts and KPIs to monitor real-time stock trends. |
+| 14 | Learned conditional formatting techniques and applied them to the cement dashboard to highlight key values. |
+| 15 | Built a new employee performance dashboard; transformed HR data using DAX Studio and Power Query. |
+| 16 | Learned to use themes for consistent design and implemented custom columns for detailed reporting. |
+| 17 | Implemented bookmarks and visual drill-downs to create interactive and user-friendly dashboards. |
+| 18 | Updated the employee dashboard to include additional performance metrics and design improvements. |
+| 19 | Created a new dashboard to visualize business trends for a fictional "New LLC" company. |
+| 20 | Final enhancements and updates made to the employee dashboard to improve usability and visual structure. |
+
 
 ---
 
